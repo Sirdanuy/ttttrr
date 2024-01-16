@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b36c4810.css",
+    "main.js": "/static/js/main.c6d52b29.js",
+    "static/media/Lemon-Regular.ttf": "/static/media/Lemon-Regular.77a52dd3e6aebcb8858b.ttf",
+    "static/media/Creepster-Regular.ttf": "/static/media/Creepster-Regular.7e29388744fe1602e58c.ttf",
+    "static/media/Gemstone.ttf": "/static/media/Gemstone.8d6206d6bb64e1734542.ttf",
+    "static/media/leap.png": "/static/media/leap.5d7059037c2002226d73.png",
+    "static/media/compass.png": "/static/media/compass.f0452122abbf7a4ab4ca.png",
+    "static/media/Acme-Regular.ttf": "/static/media/Acme-Regular.f6db4c5c3282b4e95e85.ttf",
+    "static/media/falcon.png": "/static/media/falcon.f78c664d8fdbd5038660.png",
+    "static/media/keplr.png": "/static/media/keplr.8731c3e972f5b93ae2a7.png",
+    "index.html": "/index.html",
+    "main.b36c4810.css.map": "/static/css/main.b36c4810.css.map",
+    "main.c6d52b29.js.map": "/static/js/main.c6d52b29.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b36c4810.css",
+    "static/js/main.c6d52b29.js"
+  ]
+}
